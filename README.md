@@ -1,4 +1,4 @@
-# VSCode 配置 Latex 排版环境
+# VSCode 配置 LaTeX 排版环境
 
 在 VSCode 中快速配置支持中文的 LaTeX 排版环境
 
