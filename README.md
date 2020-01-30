@@ -60,9 +60,12 @@
     ],
     "latex-workshop.latex.recipes": [
         {
-            "name": "xelatex",
+            "name": "xelatex -> bibtex -> xelatex*2",
             "tools": [
-                "xelatex"
+                "xelatex",
+                "bibtex",
+                "xelatex",
+                "xelatex",
             ]
         },
         {
